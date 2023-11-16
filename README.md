@@ -14,4 +14,10 @@
    - Bitwise operations
 
 3. **DPU**-A Data Processing Unit (DPU) os a programmable computer processor that integrates a CPU with network interface hardware. DPUs are also known as "IPUs" (Infrastructure Processing Unit) or SmartNICs". DPUs are used in data centers to:
-4.  
+
+   - Move data around
+   - Handle networking functions
+   - Relieve the CPU from data processing jobs.
+
+4. **GPU**- A Graphics Processing Unit (GPU) is a chip that renders graphics for display on an electronic device. GPUs are designed to accelerate computer graphics and image processing. They can perform mathamatical calculations at high speed. Comnputing tasks like:
+5. 
